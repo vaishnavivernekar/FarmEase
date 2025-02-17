@@ -1,4 +1,4 @@
-# FarmEase
+
 # FarmEase 🌱  
 **Empowering Farmers with Technology**  
 
